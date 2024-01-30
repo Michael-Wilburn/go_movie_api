@@ -1,5 +1,8 @@
 # go_movie_api
 
+Documentation 
+https://app.swaggerhub.com/apis-docs/moneyripper/movieReviewsAPI/1.0
+
 Go-MovieReviews-API EC2 Documentation
 
 Overview
